@@ -1,4 +1,63 @@
-<<<<<<< HEAD
+.navbar{
+    display: flex;
+    width: 100%;
+    height: 80px;
+    padding: 70px 0px;
+    border-bottom: 1px solid rgb(211, 208, 208);
+    background-color: white;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.nav-left{
+    display: flex;
+    align-items: center;
+    padding-left: 150px;
+}
+
+.nav-center{
+    display: flex;
+    width: 300px;
+    height: 40px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    background-color: rgb(211, 209, 209);
+    opacity: 0.2;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+}
+
+.fa-search{
+    font-size: 15px;
+    color: grey;
+}
+.nav-right{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 20px;
+    padding-right: 150px;
+}
+
+.compass{
+    font-size: 30px;
+    margin: 0px 20px;
+}
+
+.heart{
+    font-size: 30px;
+    margin: 0px 20px;
+}
+
+.user{
+    font-size: 30px;
+    margin: 0px 20px;
+}
+
+
 .profilebox{
     width: 75%;
     margin: 110px auto 0 auto;
@@ -54,59 +113,14 @@
     line-height: 1;
     content: "\f013";
 }
-=======
-.navbar{
-    display: flex;
-    width: 100%;
-    height: 80px;
-    padding: 70px 0px;
-    border-bottom: 1px solid rgb(211, 208, 208);
-    background-color: white;
-    align-items: center;
-}
 
-.nav_left{
+.highlight{
+    margin: 50px;
+    width: 70%;
     display: flex;
     align-items: center;
-    padding-left: 150px;
 }
 
-.nav_center{
-    display: flex;
-    width: 300px;
-    height: 40px;
-    border: 1px solid grey;
-    border-radius: 10px;
-    font-size: 20px;
-    color: black;
-    text-align: center;
-    background-color: rgb(211, 209, 209);
-    opacity: 0.2;
+.highimg{
+    
 }
-
-.fa-search{
-    font-size: 15px;
-    color: grey;
-}
-.nav_right{
-    display: flex;
-    justify-content: space-between;
-    margin: 0px 20px;
-    padding-right: 150px;
-}
-
-.compass{
-    font-size: 30px;
-    margin: 0px 20px;
-}
-
-.heart{
-    font-size: 30px;
-    margin: 0px 20px;
-}
-
-.user{
-    font-size: 30px;
-    margin: 0px 20px;
-}
->>>>>>> ebc85fb27030a8c05a6f20abd03443eee1eb0b75
