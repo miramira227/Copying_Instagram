@@ -158,6 +158,7 @@
     margin: 0 25px;
 }
 
+<<<<<<< HEAD
 .highimg{
     /* width: 83px;
     height: 83px; */
@@ -174,3 +175,28 @@
 
 
 
+=======
+.contents{
+    width: 70%;
+    margin: 0 auto;
+    border-top: 1px solid #dbdbdb;
+    box-sizing: border-box;
+    padding: 0;
+    display: block;
+}
+
+.subnav{
+    margin: 20px auto;
+    width: fit-content;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    font-size: 12px;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.subdetail{
+    margin-right: 60px;
+}
+>>>>>>> a5a8274594495d6eb41c58713af39195e526b612
