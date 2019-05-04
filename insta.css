@@ -145,8 +145,10 @@
 }
 
 .highlights{
+    width: 75%;
     display: flex;
-    justify-content: center;
+    justify-content: left;
+    margin: 50px auto;
 }
 
 .highlight{
