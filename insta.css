@@ -6,7 +6,6 @@
     border-bottom: 1px solid rgb(211, 208, 208);
     background-color: white;
     align-items: center;
-    justify-content: space-around;
 }
 
 .nav-left{
@@ -31,15 +30,16 @@
     justify-content: center;
 }
 
-.fa-search{
-    font-size: 15px;
-    color: grey;
-}
 .nav-right{
     display: flex;
     justify-content: space-between;
     margin: 0px 20px;
     padding-right: 150px;
+}
+
+.fa-search{
+    font-size: 15px;
+    color: grey;
 }
 
 .compass{
