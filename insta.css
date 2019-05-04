@@ -78,7 +78,11 @@
 .circle{
     object-fit: cover;
     border-radius: 100%;
+<<<<<<< HEAD
     border: 1px solid rgb(197, 197, 197);
+=======
+    border: 1px solid gray;
+>>>>>>> edc1ee811782228525151d61bc590128cf996440
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -173,8 +177,6 @@
     text-align: center;
 }
 
-
-
 .contents{
     width: 70%;
     margin: 0 auto;
@@ -217,3 +219,14 @@
     padding: 0;
     cursor: pointer;
 }
+<<<<<<< HEAD
+=======
+
+.instaimg{
+    margin-bottom: 0.1rem;
+    margin-left: 0.2rem;
+    box-sizing: border-box;
+    padding: 0;
+    display: block;
+}
+>>>>>>> edc1ee811782228525151d61bc590128cf996440
