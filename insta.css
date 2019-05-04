@@ -152,6 +152,26 @@
     align-items: center;
 }
 
-.highimg{
-    
+.contents{
+    width: 70%;
+    margin: 0 auto;
+    border-top: 1px solid #dbdbdb;
+    box-sizing: border-box;
+    padding: 0;
+    display: block;
+}
+
+.subnav{
+    margin: 20px auto;
+    width: fit-content;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    font-size: 12px;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.subdetail{
+    margin-right: 60px;
 }
