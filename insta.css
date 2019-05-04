@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .profilebox{
     width: 75%;
     margin: 110px auto 0 auto;
@@ -53,8 +52,39 @@
     text-rendering: auto;
     line-height: 1;
     content: "\f013";
+    font-size: 25px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
-=======
+
+.button {
+    width: fit-content;
+    padding: 5px 10px; 
+    border-radius: 5px;
+    font-size: 14px;
+    border: 1px solid #dbdbdb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 20px;
+}
+
+.new{
+    text-decoration: none;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+.detail{
+    margin-right: 50px;
+    box-sizing: border-box;
+    padding: 0;
+    display: block;
+}
+
 .navbar{
     display: flex;
     width: 100%;
@@ -109,4 +139,3 @@
     font-size: 30px;
     margin: 0px 20px;
 }
->>>>>>> ebc85fb27030a8c05a6f20abd03443eee1eb0b75
